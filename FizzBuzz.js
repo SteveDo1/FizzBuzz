@@ -14,3 +14,6 @@ for (var i = 1; i < 101; i++) {
         console.log(Buzz);
     else console.log(i);
 }
+
+// TODO: Potentially create a front end web app that prompts user to enter a numbered range. Maybe have another section to have a user enter any number
+//And determine if it is a Fizz, Buzz, or FizzBuzz. Perhaps using React to help
